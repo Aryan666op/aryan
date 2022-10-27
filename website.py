@@ -39,7 +39,10 @@ with st.container():
     st.write("---")
     leftcolumn , rightcolumn = st.columns(2)
     with leftcolumn :
-        st.write("This is only for practise dont take it seriously okkk")
+        st.write('''I have madethis website actully webpage only for experiment
+        and trials . This website is made by aryan chaturvedi .
+        i know the animation on the right side is very attractive 
+        this you can get from lottie . Thank you for reading !!''')
     with rightcolumn:
         lottie(lottie_coding )
 
@@ -64,3 +67,7 @@ with st.container():
         st.markdown(contact_form , unsafe_allow_html=True)
     with rightcolumn:
         st.empty()
+
+with st.container():
+    st.header('''THANK YOU FOR VISITING
+    THIS SITE ''')
