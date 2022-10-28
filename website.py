@@ -70,5 +70,4 @@ with st.container():
         st.empty()
 
 with st.container():
-    st.header('''THANK YOU FOR VISITING
-    THIS SITE ''')
+    st.header('''THANK YOU FOR VISITING THIS SITE ''')
