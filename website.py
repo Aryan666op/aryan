@@ -50,6 +50,7 @@ with st.container():
     st.subheader("Channels you may like ")
     st.markdown("[Programming Aryan](https://www.youtube.com/channel/UCCquWagYSDiemdYtJA85KOw)")
     st.markdown("[Code With Haryy](https://www.youtube.com/c/CodeWithHarry)")
+    st.markdown("[Code is fun](https://www.youtube.com/c/CodingIsFun)")
 
 with st.container():
     st.write("---")
